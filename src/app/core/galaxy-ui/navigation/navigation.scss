@@ -74,7 +74,11 @@ li.nav-list-item {
 }
 
 li.nav-list-item:hover {
+<<<<<<< HEAD
   background-color: #eaf7ec;
+=======
+  background-color: #f5fdf6;
+>>>>>>> feat(tool): :sunrise:
   border-left: 3px solid #10aa52;
   transition: border 100ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }

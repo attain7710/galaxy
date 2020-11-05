@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { ChangeDetectionStrategy, Component, ViewEncapsulation } from '@angular/core';
+=======
+import { ChangeDetectionStrategy, Component } from '@angular/core';
+>>>>>>> feat(tool): :sunrise:
 
 @Component({
   selector: 'galaxy-toolbar',
@@ -7,7 +11,10 @@ import { ChangeDetectionStrategy, Component, ViewEncapsulation } from '@angular/
   host: {
     'class': 'galaxy-toolbar'
   },
+<<<<<<< HEAD
   encapsulation: ViewEncapsulation.None,
+=======
+>>>>>>> feat(tool): :sunrise:
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class GalaxyToolbar {

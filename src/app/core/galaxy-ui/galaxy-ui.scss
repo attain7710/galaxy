@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 :root {
   --color-green: #13AA52;
+=======
+.galaxy-toolbar {
+  width: 100%;
+  height: 70px;
+  padding: 0 16px;
+  z-index: 1000000;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  background-color: #fff;
+  box-shadow: 0 1px #dadcdd;
+>>>>>>> feat(tool): :sunrise:
 }
 
 .galaxy-navigation {
@@ -7,6 +21,7 @@
   width: 100%;
 }
 
+<<<<<<< HEAD
 .galaxy-process-spinner {
   position: relative;
   display: inline-block;
@@ -25,4 +40,8 @@
 a {
   color: var(--color-green);
   text-decoration: none;
+=======
+:root {
+  --color-green: #13AA52;
+>>>>>>> feat(tool): :sunrise:
 }
